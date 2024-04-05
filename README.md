@@ -6,7 +6,7 @@ Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of exper
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Renuka19990&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
