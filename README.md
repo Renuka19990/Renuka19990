@@ -6,13 +6,12 @@ Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of exper
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.giff"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Renuka19990&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
- 
-      
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+       
+<img src="">
 
 
 - 🔭 I’m currently working on Frontend & Backend
