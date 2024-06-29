@@ -11,7 +11,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Renuka19990&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
        
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" align="center">
 
 
 - 🔭 I’m currently working on Frontend & Backend
