@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/renuka-jagrwal-5b64b6252/">Renuka Jagrwal 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> I'm <a href="https://www.linkedin.com/in/renuka-jagrwal-5b64b6252/">Renuka Jagrwal 💻</a>!
 </h2>  
 
 Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
